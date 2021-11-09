@@ -1,5 +1,5 @@
-# AFLGOPT
-Project to optimize the exploitation transition phase in AFLGo
+# FuzzFrame
+Framework to optimize the exploitation transition phase in AFLGo and test it
 
 ## Build Docker
 Simply run ``` ./build.sh ``` at the project home directory.
