@@ -1,6 +1,9 @@
 # FuzzFrame
 Framework to optimize the exploitation transition phase in AFLGo and test it
 
+## Clone repository
+Run ``` git clone --recursive  [repository url] ``` to clone this repository with its submodules.
+
 ## Build Docker
 Simply run ``` ./build.sh ``` at the project home directory.
 
