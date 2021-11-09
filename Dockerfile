@@ -77,3 +77,4 @@ COPY docker-setup/target /benchmark/target
 COPY docker-setup/build_binutils.sh /benchmark/build_binutils.sh
 RUN ./build_binutils.sh
 
+WORKDIR /
