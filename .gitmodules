@@ -1,0 +1,3 @@
+[submodule "AFLGOPT"]
+    path = AFLGOPT
+    url = https://github.com/goodtaeeun/AFLGOPT.git
