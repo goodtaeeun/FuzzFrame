@@ -7,6 +7,10 @@ Run ``` git clone --recursive  [repository url] ``` to clone this repository wit
 ## Build Docker
 Simply run ``` ./build.sh ``` at the project home directory.
 
+Or you can download the prebuilt docker image from docker hub by ``` docker pull goodtaeeun/aflgopt ```
+
+Note that the docker image in dockerhub may not always be up-to-date with this repository.
+
 ## Run fuzzer
 First, launce a docker container by ``` ./launch.sh ```
 
