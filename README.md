@@ -9,6 +9,8 @@ Simply run ``` ./build.sh ``` at the project home directory.
 
 Or you can download the prebuilt docker image from docker hub by ``` docker pull goodtaeeun/aflgopt ```
 
+Make sure that you retag the docker image to be compatible with our scripts. ``` docker tag goodtaeeun/aflgopt aflgopt ```
+
 Note that the docker image in dockerhub may not always be up-to-date with this repository.
 
 ## Run fuzzer
