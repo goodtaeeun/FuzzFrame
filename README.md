@@ -18,7 +18,7 @@ First, launce a docker container by ``` ./launch.sh ```
 
 Then, inside the docker, run fuzzer by the following command
 ```
-/tool-script/run_ALFGo.sh cxxfilt-2016-4487 stdin 600
+/tool-script/run_AFLGo.sh cxxfilt-2016-4487 stdin 600
 ```
 This means you will run AFLGo on a binary named cxxfilt-2016-4487, which takes inputs from stdin, for 600 seconds.
 
@@ -26,7 +26,7 @@ For other targets or other time limits, you may change the arguments.
 
 Currently, the exploitation phase starts at the 3/4 point of the entire runtime.
 
-See the script "run_ALFGo.sh" to modify it.
+See the script "run_AFLGo.sh" to modify it.
 
 ## Check results
 After the fuzzing is done, you can check the results under ``` /box/output ```
