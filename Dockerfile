@@ -60,8 +60,8 @@ RUN apt-get update && \
 RUN mkdir /fuzzer
 WORKDIR /fuzzer
 COPY AFLGOPT /fuzzer/AFLGOPT
-COPY docker-setup/setup_AFLGo.sh /fuzzer/setup_AFLGo.sh
-RUN ./setup_AFLGo.sh
+COPY docker-setup/setup_AFLGOPT.sh /fuzzer/setup_AFLGOPT.sh
+RUN ./setup_AFLGOPT.sh
 
 # Create a benchmark directory and start working there.
 RUN mkdir -p /benchmark/bin && \

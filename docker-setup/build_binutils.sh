@@ -8,7 +8,7 @@ CONFIG_OPTIONS="--disable-shared --disable-gdb \
                  --disable-sim --disable-ld"
 
 # arg1 : cve number
-function build_cxxfilt_with_AFLGo() {
+function build_cxxfilt_with_AFLGOPT() {
     tar -xzf binutils-2.26.tar.gz
     cd binutils-2.26
     mkdir -p obj-aflgo/temp
@@ -16,11 +16,11 @@ function build_cxxfilt_with_AFLGo() {
     TMP_DIR=$PWD/obj-aflgo/temp
     cp /benchmark/target/AFLGo/cxxfilt/$1 $TMP_DIR/BBtargets.txt
     ADDITIONAL="-targets=$TMP_DIR/BBtargets.txt \
-                -outdir=$TMP_DIR -flto -fuse-ld=gold \
-                -Wl,-plugin-opt=save-temps"
+    -outdir=$TMP_DIR -flto -fuse-ld=gold \
+    -Wl,-plugin-opt=save-temps"
 
     cd obj-aflgo
-    CC=/fuzzer/AFLGo/afl-clang-fast CXX=/fuzzer/AFLGo/afl-clang-fast++ \
+    CC=/fuzzer/AFLGOPT/afl-clang-fast CXX=/fuzzer/AFLGOPT/afl-clang-fast++ \
     CFLAGS="$DEFAULT_CFLAGS $ADDITIONAL" \
     LDFLAGS="-ldl -lutil" \
     ../configure $CONFIG_OPTIONS
