@@ -59,8 +59,8 @@ RUN apt-get update && \
 # Create a fuzzer directory and start working there.
 RUN mkdir /fuzzer
 WORKDIR /fuzzer
-COPY AFLGOPT /fuzzer/AFLGOPT
 COPY docker-setup/setup_AFLGOPT.sh /fuzzer/setup_AFLGOPT.sh
+COPY docker-setup/build_AFLGOPT.sh /fuzzer/build_AFLGOPT.sh
 RUN ./setup_AFLGOPT.sh
 
 # Create a benchmark directory and start working there.
@@ -74,15 +74,14 @@ WORKDIR /benchmark
 COPY docker-setup/poc /benchmark/poc
 COPY docker-setup/target /benchmark/target
 
-# Copy tool scripts
-COPY docker-setup/tool-script /tool-script
 
 # Setup binutils.
 COPY docker-setup/build_binutils.sh /benchmark/build_binutils.sh
 RUN ./build_binutils.sh
 
 
-
+# Copy tool scripts
+COPY docker-setup/tool-script /tool-script
 # Set final work directory
 WORKDIR /
 
