@@ -31,11 +31,11 @@ function build_cxxfilt_with_AFLGOPT() {
     && mv $TMP_DIR/BBcalls2.txt $TMP_DIR/BBcalls.txt
 
     cd binutils
-    /fuzzer/AFLGo/scripts/genDistance.sh $PWD $TMP_DIR cxxfilt
+    /fuzzer/AFLGOPT/scripts/genDistance.sh $PWD $TMP_DIR cxxfilt
     cd ../../
     mkdir obj-dist
     cd obj-dist # work around because cannot run make distclean
-    CC=/fuzzer/AFLGo/afl-clang-fast CXX=/fuzzer/AFLGo/afl-clang-fast++ \
+    CC=/fuzzer/AFLGOPT/afl-clang-fast CXX=/fuzzer/AFLGOPT/afl-clang-fast++ \
     CFLAGS="$DEFAULT_CFLAGS -fsanitize=address -distance=$TMP_DIR/distance.cfg.txt" \
     LDFLAGS="-ldl -lutil" \
     ../configure $CONFIG_OPTIONS
@@ -47,10 +47,10 @@ function build_cxxfilt_with_AFLGOPT() {
 export ASAN_OPTIONS=detect_leaks=0
 wget http://ftp.gnu.org/gnu/binutils/binutils-2.26.tar.gz || exit 1
 
-# Build with AFLGo
-mkdir -p /benchmark/bin/AFLGo
+# Build with AFLGOPT
+mkdir -p /benchmark/bin/AFLGOPT
 for cve in $CVE_LIST; do
-    build_cxxfilt_with_AFLGo $cve
-    cp binutils-2.26/obj-dist/binutils/cxxfilt /benchmark/bin/AFLGo/cxxfilt-$cve
+    build_cxxfilt_with_AFLGOPT $cve
+    cp binutils-2.26/obj-dist/binutils/cxxfilt /benchmark/bin/AFLGOPT/cxxfilt-$cve
     rm -rf binutils-2.26
 done
