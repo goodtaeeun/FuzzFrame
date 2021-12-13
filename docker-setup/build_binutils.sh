@@ -14,7 +14,7 @@ function build_cxxfilt_with_AFLGOPT() {
     mkdir -p obj-aflgo/temp
     SUBJECT=$PWD
     TMP_DIR=$PWD/obj-aflgo/temp
-    cp /benchmark/target/AFLGo/cxxfilt/$1 $TMP_DIR/BBtargets.txt
+    cp /benchmark/target/AFLGOPT/cxxfilt/$1 $TMP_DIR/BBtargets.txt
     ADDITIONAL="-targets=$TMP_DIR/BBtargets.txt \
     -outdir=$TMP_DIR -flto -fuse-ld=gold \
     -Wl,-plugin-opt=save-temps"
@@ -49,8 +49,10 @@ wget http://ftp.gnu.org/gnu/binutils/binutils-2.26.tar.gz || exit 1
 
 # Build with AFLGOPT
 mkdir -p /benchmark/bin/AFLGOPT
+mkdir -p /benchmark/bin/AFLGo
 for cve in $CVE_LIST; do
     build_cxxfilt_with_AFLGOPT $cve
     cp binutils-2.26/obj-dist/binutils/cxxfilt /benchmark/bin/AFLGOPT/cxxfilt-$cve
+    cp binutils-2.26/obj-dist/binutils/cxxfilt /benchmark/bin/AFLGo/cxxfilt-$cve
     rm -rf binutils-2.26
 done

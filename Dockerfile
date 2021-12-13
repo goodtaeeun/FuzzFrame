@@ -59,6 +59,8 @@ RUN apt-get update && \
 # Create a fuzzer directory and start working there.
 RUN mkdir /fuzzer
 WORKDIR /fuzzer
+COPY docker-setup/setup_AFLGo.sh /fuzzer/setup_AFLGo.sh
+RUN ./setup_AFLGo.sh
 COPY docker-setup/setup_AFLGOPT.sh /fuzzer/setup_AFLGOPT.sh
 COPY docker-setup/build_AFLGOPT.sh /fuzzer/build_AFLGOPT.sh
 RUN ./setup_AFLGOPT.sh
