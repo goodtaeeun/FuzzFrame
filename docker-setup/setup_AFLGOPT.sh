@@ -1,6 +1,7 @@
 #!/bin/bash
 git clone https://github.com/goodtaeeun/AFLGOPT.git
 cd AFLGOPT
+git checkout AFLGOPT
 apt-get -y update
 apt-get -y install python3 python3-dev python3-pip libboost-all-dev ninja-build --no-install-recommends
 pip3 install --upgrade pip
