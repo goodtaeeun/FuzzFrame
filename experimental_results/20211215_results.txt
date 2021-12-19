@@ -1,0 +1,516 @@
+(Result of AFLGOPT-cxxfilt-2016-4487-71c0cdb)
+Time-to-error: [517, 769, 435, 724, 612, 143, 328, 225] (median = 476)
+Execs: 6107124 - 7246345 (avg = 6773070)
+Path ratio: 0.0652 - 0.0731
+Edge ratio: 0.0046 - 0.0056
+Bitmap coverage: 6.01 - 6.35
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4487-860498e)
+Time-to-error: [295, 917, 87, 291, 98, 2575, 910, 1656] (median = 602)
+Execs: 6390840 - 7383153 (avg = 6860861)
+Path ratio: 0.0609 - 0.0739
+Edge ratio: 0.0046 - 0.0052
+Bitmap coverage: 6.03 - 6.26
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4487-8a60761)
+Time-to-error: [180, 647, 486, 394, 626, 1010, 609, 1109] (median = 617)
+Execs: 6593155 - 7146010 (avg = 6773714)
+Path ratio: 0.0642 - 0.0736
+Edge ratio: 0.0047 - 0.0053
+Bitmap coverage: 6.14 - 6.36
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4487-9f61798)
+Time-to-error: [976, 156, 1432, 455, 799, 616, 556, 987] (median = 707)
+Execs: 6657510 - 7649017 (avg = 6954304)
+Path ratio: 0.0542 - 0.0729
+Edge ratio: 0.0040 - 0.0052
+Bitmap coverage: 6.09 - 6.36
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4487-9fa81a5)
+Time-to-error: [443, 1035, 465, 702, 122, 1121, 324, 820] (median = 583)
+Execs: 3548912 - 7100811 (avg = 6523463)
+Path ratio: 0.0670 - 0.0932
+Edge ratio: 0.0044 - 0.0086
+Bitmap coverage: 5.96 - 6.33
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4487-e6d9cf2)
+Time-to-error: [492, 149, 1723, 1448, 495, 381, 1148, 283] (median = 493)
+Execs: 5874858 - 7160371 (avg = 6807703)
+Path ratio: 0.0674 - 0.0714
+Edge ratio: 0.0046 - 0.0055
+Bitmap coverage: 5.97 - 6.36
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4487-e8e547f)
+Time-to-error: [727, 73, 280, 353, 164, 1055, 165, 2292] (median = 316)
+Execs: 6463433 - 7872375 (avg = 6959712)
+Path ratio: 0.0531 - 0.0730
+Edge ratio: 0.0044 - 0.0052
+Bitmap coverage: 6.12 - 6.35
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4489-71c0cdb)
+Time-to-error: [2519, 331, 2167, 3898, 783, 593, 972, 502] (median = 877)
+Execs: 6610495 - 7203172 (avg = 6814512)
+Path ratio: 0.0689 - 0.0710
+Edge ratio: 0.0047 - 0.0050
+Bitmap coverage: 6.03 - 6.32
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4489-860498e)
+Time-to-error: [1473, 2785, 2716, 1618, 1209, 2317, 755, 1014] (median = 1545)
+Execs: 6676725 - 7331059 (avg = 7010510)
+Path ratio: 0.0670 - 0.0727
+Edge ratio: 0.0044 - 0.0051
+Bitmap coverage: 6.12 - 6.39
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4489-8a60761)
+Time-to-error: [740, 1465, 4052, 1428, 951, 2374, 595, 2105] (median = 1446)
+Execs: 6741315 - 7059326 (avg = 6850816)
+Path ratio: 0.0640 - 0.0706
+Edge ratio: 0.0047 - 0.0052
+Bitmap coverage: 6.09 - 6.30
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4489-9f61798)
+Time-to-error: [966, 1047, 1095, 394, 546, 444, 931, 1052] (median = 948)
+Execs: 6286810 - 7231380 (avg = 6911379)
+Path ratio: 0.0669 - 0.0745
+Edge ratio: 0.0045 - 0.0053
+Bitmap coverage: 6.08 - 6.38
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4489-9fa81a5)
+Time-to-error: [871, 1216, 371, 2059, 747, 3006, 754, 2091] (median = 1043)
+Execs: 6684538 - 7313147 (avg = 6994241)
+Path ratio: 0.0675 - 0.0712
+Edge ratio: 0.0046 - 0.0050
+Bitmap coverage: 6.04 - 6.39
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4489-e6d9cf2)
+Time-to-error: [3118, 2253, 1137, 1478, 2048, 288, 2398, 1516] (median = 1782)
+Execs: 4806847 - 7302339 (avg = 6684203)
+Path ratio: 0.0644 - 0.0725
+Edge ratio: 0.0046 - 0.0070
+Bitmap coverage: 6.09 - 6.29
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4489-e8e547f)
+Time-to-error: [1610, 3329, 2040, 617, 1788, 905, 528, 1515] (median = 1562)
+Execs: 6766264 - 7421923 (avg = 7075968)
+Path ratio: 0.0657 - 0.0698
+Edge ratio: 0.0044 - 0.0048
+Bitmap coverage: 6.18 - 6.34
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4490-71c0cdb)
+Time-to-error: [375, 196, 130, 109, 149, 244, 283, 82] (median = 172)
+Execs: 9351127 - 10501363 (avg = 10001163)
+Path ratio: 0.0487 - 0.0523
+Edge ratio: 0.0030 - 0.0034
+Bitmap coverage: 6.10 - 6.48
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4490-860498e)
+Time-to-error: [183, 502, 462, 271, 412, 178, 244, 221] (median = 257)
+Execs: 9215159 - 10268449 (avg = 9817276)
+Path ratio: 0.0492 - 0.0544
+Edge ratio: 0.0032 - 0.0035
+Bitmap coverage: 6.22 - 6.44
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4490-8a60761)
+Time-to-error: [275, 230, 420, 334, 180, 307, 265, 358] (median = 291)
+Execs: 9290525 - 10686655 (avg = 10107850)
+Path ratio: 0.0484 - 0.0535
+Edge ratio: 0.0030 - 0.0035
+Bitmap coverage: 6.22 - 6.39
+------------------------------------------------------------------
+[Warning]: Unexpected crash point in d_unqualified_name()
+Check the following replay log:
+id:000002 (found at 231 sec.):
+AddressSanitizer:DEADLYSIGNAL
+=================================================================
+==2479150==ERROR: AddressSanitizer: SEGV on unknown address (pc 0x000000a7a52d bp 0x7ffe15814d40 sp 0x7ffe15814cf0 T0)
+==2479150==The signal is caused by a READ memory access.
+==2479150==Hint: this fault was caused by a dereference of a high value address (see register values below).  Disassemble the provided pc to learn which register was used.
+    #0 0xa7a52d in d_discriminator /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3471:7
+    #1 0xa78856 in d_unqualified_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1576:13
+    #2 0xa74904 in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1399:12
+    #3 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #4 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #5 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #6 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #7 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #8 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #9 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #10 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #11 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #12 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #13 0xa60635 in cplus_demangle_mangled_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1172:7
+    #14 0xa70b3f in d_demangle_callback /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:5894:7
+    #15 0xa6f9d2 in d_demangle /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:5945:12
+    #16 0xa6f7d8 in cplus_demangle_v3 /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:6102:10
+    #17 0xa2a870 in cplus_demangle /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cplus-dem.c:864:13
+    #18 0x4c977d in demangle_it /benchmark/binutils-2.26/obj-dist/binutils/../../binutils/cxxfilt.c:62:12
+    #19 0x4c8ec7 in main /benchmark/binutils-2.26/obj-dist/binutils/../../binutils/cxxfilt.c:275:4
+    #20 0x7ff4113870b2 in __libc_start_main /build/glibc-eX1tMB/glibc-2.31/csu/../csu/libc-start.c:308:16
+    #21 0x41c54d in _start (/box/cxxfilt-2016-4490+0x41c54d)
+
+AddressSanitizer can not provide additional info.
+SUMMARY: AddressSanitizer: SEGV /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3471:7 in d_discriminator
+==2479150==ABORTING
+
+
+[Warning]: Unexpected crash point in d_unqualified_name()
+Check the following replay log:
+id:000003 (found at 231 sec.):
+AddressSanitizer:DEADLYSIGNAL
+=================================================================
+==2479158==ERROR: AddressSanitizer: SEGV on unknown address (pc 0x000000a7a52d bp 0x7ffe948d9340 sp 0x7ffe948d92f0 T0)
+==2479158==The signal is caused by a READ memory access.
+==2479158==Hint: this fault was caused by a dereference of a high value address (see register values below).  Disassemble the provided pc to learn which register was used.
+    #0 0xa7a52d in d_discriminator /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3471:7
+    #1 0xa78856 in d_unqualified_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1576:13
+    #2 0xa74904 in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1399:12
+    #3 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #4 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #5 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #6 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #7 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #8 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #9 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #10 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #11 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #12 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #13 0xa60635 in cplus_demangle_mangled_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1172:7
+    #14 0xa70b3f in d_demangle_callback /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:5894:7
+    #15 0xa6f9d2 in d_demangle /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:5945:12
+    #16 0xa6f7d8 in cplus_demangle_v3 /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:6102:10
+    #17 0xa2a870 in cplus_demangle /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cplus-dem.c:864:13
+    #18 0x4c977d in demangle_it /benchmark/binutils-2.26/obj-dist/binutils/../../binutils/cxxfilt.c:62:12
+    #19 0x4c8ec7 in main /benchmark/binutils-2.26/obj-dist/binutils/../../binutils/cxxfilt.c:275:4
+    #20 0x7f2bf5f0a0b2 in __libc_start_main /build/glibc-eX1tMB/glibc-2.31/csu/../csu/libc-start.c:308:16
+    #21 0x41c54d in _start (/box/cxxfilt-2016-4490+0x41c54d)
+
+AddressSanitizer can not provide additional info.
+SUMMARY: AddressSanitizer: SEGV /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3471:7 in d_discriminator
+==2479158==ABORTING
+
+
+[Warning]: Unexpected crash point in d_unqualified_name()
+Check the following replay log:
+id:000004 (found at 231 sec.):
+AddressSanitizer:DEADLYSIGNAL
+=================================================================
+==2479166==ERROR: AddressSanitizer: SEGV on unknown address (pc 0x000000a7a52d bp 0x7ffe55cd0de0 sp 0x7ffe55cd0d90 T0)
+==2479166==The signal is caused by a READ memory access.
+==2479166==Hint: this fault was caused by a dereference of a high value address (see register values below).  Disassemble the provided pc to learn which register was used.
+    #0 0xa7a52d in d_discriminator /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3471:7
+    #1 0xa78856 in d_unqualified_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1576:13
+    #2 0xa74904 in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1399:12
+    #3 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #4 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #5 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #6 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #7 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #8 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #9 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #10 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #11 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #12 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #13 0xa60635 in cplus_demangle_mangled_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1172:7
+    #14 0xa70b3f in d_demangle_callback /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:5894:7
+    #15 0xa6f9d2 in d_demangle /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:5945:12
+    #16 0xa6f7d8 in cplus_demangle_v3 /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:6102:10
+    #17 0xa2a870 in cplus_demangle /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cplus-dem.c:864:13
+    #18 0x4c977d in demangle_it /benchmark/binutils-2.26/obj-dist/binutils/../../binutils/cxxfilt.c:62:12
+    #19 0x4c8ec7 in main /benchmark/binutils-2.26/obj-dist/binutils/../../binutils/cxxfilt.c:275:4
+    #20 0x7f9ee40810b2 in __libc_start_main /build/glibc-eX1tMB/glibc-2.31/csu/../csu/libc-start.c:308:16
+    #21 0x41c54d in _start (/box/cxxfilt-2016-4490+0x41c54d)
+
+AddressSanitizer can not provide additional info.
+SUMMARY: AddressSanitizer: SEGV /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3471:7 in d_discriminator
+==2479166==ABORTING
+
+
+[Warning]: Unexpected crash point in d_unqualified_name()
+Check the following replay log:
+id:000005 (found at 231 sec.):
+AddressSanitizer:DEADLYSIGNAL
+=================================================================
+==2479174==ERROR: AddressSanitizer: SEGV on unknown address (pc 0x000000a7a52d bp 0x7ffe470886e0 sp 0x7ffe47088690 T0)
+==2479174==The signal is caused by a READ memory access.
+==2479174==Hint: this fault was caused by a dereference of a high value address (see register values below).  Disassemble the provided pc to learn which register was used.
+    #0 0xa7a52d in d_discriminator /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3471:7
+    #1 0xa78856 in d_unqualified_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1576:13
+    #2 0xa74904 in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1399:12
+    #3 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #4 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #5 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #6 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #7 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #8 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #9 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #10 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #11 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #12 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #13 0xa60635 in cplus_demangle_mangled_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1172:7
+    #14 0xa70b3f in d_demangle_callback /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:5894:7
+    #15 0xa6f9d2 in d_demangle /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:5945:12
+    #16 0xa6f7d8 in cplus_demangle_v3 /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:6102:10
+    #17 0xa2a870 in cplus_demangle /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cplus-dem.c:864:13
+    #18 0x4c977d in demangle_it /benchmark/binutils-2.26/obj-dist/binutils/../../binutils/cxxfilt.c:62:12
+    #19 0x4c8ec7 in main /benchmark/binutils-2.26/obj-dist/binutils/../../binutils/cxxfilt.c:275:4
+    #20 0x7f84ff3b00b2 in __libc_start_main /build/glibc-eX1tMB/glibc-2.31/csu/../csu/libc-start.c:308:16
+    #21 0x41c54d in _start (/box/cxxfilt-2016-4490+0x41c54d)
+
+AddressSanitizer can not provide additional info.
+SUMMARY: AddressSanitizer: SEGV /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3471:7 in d_discriminator
+==2479174==ABORTING
+
+
+[Warning]: Unexpected crash point in d_unqualified_name()
+Check the following replay log:
+id:000006 (found at 231 sec.):
+AddressSanitizer:DEADLYSIGNAL
+=================================================================
+==2479182==ERROR: AddressSanitizer: SEGV on unknown address (pc 0x000000a7a52d bp 0x7fff9fb9ec80 sp 0x7fff9fb9ec30 T0)
+==2479182==The signal is caused by a READ memory access.
+==2479182==Hint: this fault was caused by a dereference of a high value address (see register values below).  Disassemble the provided pc to learn which register was used.
+    #0 0xa7a52d in d_discriminator /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3471:7
+    #1 0xa78856 in d_unqualified_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1576:13
+    #2 0xa74904 in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1399:12
+    #3 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #4 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #5 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #6 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #7 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #8 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #9 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #10 0xa77590 in d_local_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3415:14
+    #11 0xa741be in d_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1349:14
+    #12 0xa60f8d in d_encoding /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1257:12
+    #13 0xa60635 in cplus_demangle_mangled_name /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:1172:7
+    #14 0xa70b3f in d_demangle_callback /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:5894:7
+    #15 0xa6f9d2 in d_demangle /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:5945:12
+    #16 0xa6f7d8 in cplus_demangle_v3 /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:6102:10
+    #17 0xa2a870 in cplus_demangle /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cplus-dem.c:864:13
+    #18 0x4c977d in demangle_it /benchmark/binutils-2.26/obj-dist/binutils/../../binutils/cxxfilt.c:62:12
+    #19 0x4c8ec7 in main /benchmark/binutils-2.26/obj-dist/binutils/../../binutils/cxxfilt.c:275:4
+    #20 0x7faa441730b2 in __libc_start_main /build/glibc-eX1tMB/glibc-2.31/csu/../csu/libc-start.c:308:16
+    #21 0x41c54d in _start (/box/cxxfilt-2016-4490+0x41c54d)
+
+AddressSanitizer can not provide additional info.
+SUMMARY: AddressSanitizer: SEGV /benchmark/binutils-2.26/obj-dist/libiberty/../../libiberty/cp-demangle.c:3471:7 in d_discriminator
+==2479182==ABORTING
+
+
+(Result of AFLGOPT-cxxfilt-2016-4490-9f61798)
+Time-to-error: [117, 539, 448, 323, 165, 143, 333, 231] (median = 277)
+Execs: 9192752 - 10866916 (avg = 10173359)
+Path ratio: 0.0460 - 0.0531
+Edge ratio: 0.0029 - 0.0034
+Bitmap coverage: 6.15 - 6.49
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4490-9fa81a5)
+Time-to-error: [54, 140, 342, 253, 134, 143, 354, 105] (median = 141)
+Execs: 9845310 - 11001164 (avg = 10489537)
+Path ratio: 0.0454 - 0.0501
+Edge ratio: 0.0030 - 0.0033
+Bitmap coverage: 6.17 - 6.43
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4490-e6d9cf2)
+Time-to-error: [465, 437, 350, 132, 80, 141, 213, 205] (median = 209)
+Execs: 9816172 - 10855875 (avg = 10489895)
+Path ratio: 0.0465 - 0.0510
+Edge ratio: 0.0030 - 0.0034
+Bitmap coverage: 6.20 - 6.48
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4490-e8e547f)
+Time-to-error: [225, 169, 106, 137, 376, 142, 566, 243] (median = 197)
+Execs: 4760125 - 11412969 (avg = 9560571)
+Path ratio: 0.0400 - 0.0714
+Edge ratio: 0.0028 - 0.0067
+Bitmap coverage: 6.06 - 6.49
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4491-71c0cdb)
+Time-to-error: [4168, 3503, 3966, 3457, 3549, 3865, 3631, 3619] (median = 3625)
+Execs: 9702700 - 10600620 (avg = 10075533)
+Path ratio: 0.0461 - 0.0519
+Edge ratio: 0.0030 - 0.0033
+Bitmap coverage: 6.20 - 6.43
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4491-860498e)
+Time-to-error: [4043, 2939, 3400, 3238, 3734, 4409, 3605, 4176] (median = 3669)
+Execs: 9236436 - 10724003 (avg = 10084408)
+Path ratio: 0.0475 - 0.0539
+Edge ratio: 0.0031 - 0.0035
+Bitmap coverage: 6.27 - 6.45
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4491-8a60761)
+Time-to-error: [5313, 4814, 4111, 3652, 3902, 4372, 4472, 3687] (median = 4241)
+Execs: 9284826 - 10685228 (avg = 10253526)
+Path ratio: 0.0477 - 0.0541
+Edge ratio: 0.0029 - 0.0035
+Bitmap coverage: 6.29 - 6.48
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4491-9f61798)
+Time-to-error: [3429, 3550, 3415, 3343, 3924, 3992, 3830, 3268] (median = 3489)
+Execs: 9309839 - 10699903 (avg = 9967912)
+Path ratio: 0.0460 - 0.0545
+Edge ratio: 0.0031 - 0.0034
+Bitmap coverage: 6.18 - 6.35
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4491-9fa81a5)
+Time-to-error: [3376, 3895, 4160, 4182, 3526, 5286, 4779, 4067] (median = 4113)
+Execs: 9697499 - 11017049 (avg = 10290103)
+Path ratio: 0.0460 - 0.0523
+Edge ratio: 0.0030 - 0.0034
+Bitmap coverage: 6.24 - 6.42
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4491-e6d9cf2)
+Time-to-error: [4807, 3942, 3519, 3532, 4676, 3334, 3879, 3486] (median = 3705)
+Execs: 9535707 - 10285767 (avg = 9810690)
+Path ratio: 0.0498 - 0.0546
+Edge ratio: 0.0032 - 0.0035
+Bitmap coverage: 6.23 - 6.46
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4491-e8e547f)
+Time-to-error: [3992, 4134, 3630, 3772, 3571, 3110, 3455, 3705] (median = 3667)
+Execs: 9441741 - 10063482 (avg = 9731723)
+Path ratio: 0.0496 - 0.0538
+Edge ratio: 0.0032 - 0.0035
+Bitmap coverage: 6.09 - 6.36
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4492-71c0cdb)
+Time-to-error: [5239, 7593, 5343, 275, 494, 2001, 6057, 1271] (median = 3620)
+Execs: 6337449 - 7526260 (avg = 6893529)
+Path ratio: 0.0561 - 0.0745
+Edge ratio: 0.0043 - 0.0051
+Bitmap coverage: 6.14 - 6.25
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4492-860498e)
+Time-to-error: [518, 4241, 903, 3322, 772, 1130, 7519, 4523] (median = 2226)
+Execs: 5968978 - 7259095 (avg = 6721620)
+Path ratio: 0.0651 - 0.0708
+Edge ratio: 0.0046 - 0.0056
+Bitmap coverage: 6.00 - 6.30
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4492-8a60761)
+Time-to-error: [917, 7925, 4233, 651, 4294, 152, 86400, 3893] (median = 4063)
+Execs: 6496165 - 7423551 (avg = 6796042)
+Path ratio: 0.0651 - 0.0743
+Edge ratio: 0.0045 - 0.0053
+Bitmap coverage: 6.03 - 6.35
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4492-9f61798)
+Time-to-error: [3108, 417, 417, 2306, 14031, 4493, 17049, 1669] (median = 2707)
+Execs: 6293414 - 7423144 (avg = 6966283)
+Path ratio: 0.0658 - 0.0775
+Edge ratio: 0.0044 - 0.0052
+Bitmap coverage: 6.15 - 6.38
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4492-9fa81a5)
+Time-to-error: [7138, 2406, 809, 6863, 741, 3045, 4120, 7572] (median = 3582)
+Execs: 6387966 - 7202676 (avg = 6783486)
+Path ratio: 0.0652 - 0.0768
+Edge ratio: 0.0045 - 0.0054
+Bitmap coverage: 6.08 - 6.36
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4492-e6d9cf2)
+Time-to-error: [1012, 19863, 240, 2812, 3031, 414, 10073, 6347] (median = 2921)
+Execs: 6493899 - 7120413 (avg = 6908437)
+Path ratio: 0.0671 - 0.0712
+Edge ratio: 0.0046 - 0.0050
+Bitmap coverage: 6.13 - 6.35
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-4492-e8e547f)
+Time-to-error: [222, 7695, 4783, 392, 9835, 8989, 6404, 3771] (median = 5593)
+Execs: 6639690 - 7006890 (avg = 6826369)
+Path ratio: 0.0674 - 0.0736
+Edge ratio: 0.0047 - 0.0050
+Bitmap coverage: 6.13 - 6.37
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-6131-71c0cdb)
+Time-to-error: [8301, 15541, 86400, 86400, 7893, 8312, 18850, 11264] (median = 13402)
+Execs: 6410762 - 7051733 (avg = 6775698)
+Path ratio: 0.0692 - 0.0745
+Edge ratio: 0.0046 - 0.0051
+Bitmap coverage: 6.06 - 6.36
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-6131-860498e)
+Time-to-error: [7482, 5799, 86400, 5924, 6929, 6894, 7211, 86400] (median = 7070)
+Execs: 5885933 - 8053689 (avg = 6764654)
+Path ratio: 0.0593 - 0.0747
+Edge ratio: 0.0039 - 0.0052
+Bitmap coverage: 6.03 - 6.30
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-6131-8a60761)
+Time-to-error: [6293, 17533, 13109, 12541, 8615, 6418, 11565, 8529] (median = 10090)
+Execs: 6420045 - 7076036 (avg = 6740185)
+Path ratio: 0.0670 - 0.0743
+Edge ratio: 0.0046 - 0.0050
+Bitmap coverage: 6.06 - 6.36
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-6131-9f61798)
+Time-to-error: [6697, 86400, 86400, 11610, 5634, 13317, 7780, 7571] (median = 9695)
+Execs: 6467251 - 7236311 (avg = 6809857)
+Path ratio: 0.0666 - 0.0736
+Edge ratio: 0.0045 - 0.0050
+Bitmap coverage: 6.12 - 6.29
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-6131-9fa81a5)
+Time-to-error: [7800, 7273, 5659, 86400, 86400, 6539, 6286, 86400] (median = 7536)
+Execs: 6329788 - 6949981 (avg = 6657042)
+Path ratio: 0.0683 - 0.0751
+Edge ratio: 0.0047 - 0.0053
+Bitmap coverage: 6.01 - 6.27
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-6131-e6d9cf2)
+Time-to-error: [6904, 7512, 6405, 86400, 7033, 86400, 86400, 7422] (median = 7467)
+Execs: 6348336 - 7071385 (avg = 6702130)
+Path ratio: 0.0668 - 0.0739
+Edge ratio: 0.0046 - 0.0055
+Bitmap coverage: 6.12 - 6.38
+------------------------------------------------------------------
+(Result of AFLGOPT-cxxfilt-2016-6131-e8e547f)
+Time-to-error: [8292, 12269, 5497, 21153, 10672, 7149, 7533, 86400] (median = 9482)
+Execs: 6498258 - 7476956 (avg = 6931383)
+Path ratio: 0.0668 - 0.0736
+Edge ratio: 0.0042 - 0.0051
+Bitmap coverage: 6.13 - 6.41
+------------------------------------------------------------------
+(Result of AFLGo-cxxfilt-2016-4487-original)
+Time-to-error: [3945, 3916, 3128, 1239, 3022, 1793, 2049, 323] (median = 2535)
+Execs: 8256309 - 9064304 (avg = 8726446)
+Path ratio: 0.0277 - 0.0350
+Edge ratio: 0.0040 - 0.0045
+Bitmap coverage: 5.89 - 6.19
+------------------------------------------------------------------
+(Result of AFLGo-cxxfilt-2016-4489-original)
+Time-to-error: [4187, 7817, 8707, 4095, 2347, 2844, 9662, 9365] (median = 6002)
+Execs: 8457741 - 9140502 (avg = 8870911)
+Path ratio: 0.0285 - 0.0321
+Edge ratio: 0.0040 - 0.0042
+Bitmap coverage: 5.72 - 6.11
+------------------------------------------------------------------
+(Result of AFLGo-cxxfilt-2016-4490-original)
+Time-to-error: [143, 995, 2402, 1555, 2025, 1201, 300, 1034] (median = 1117)
+Execs: 13154029 - 15317795 (avg = 14506237)
+Path ratio: 0.0192 - 0.0217
+Edge ratio: 0.0024 - 0.0029
+Bitmap coverage: 5.89 - 6.20
+------------------------------------------------------------------
+(Result of AFLGo-cxxfilt-2016-4491-original)
+Time-to-error: [10485, 15218, 17152, 16973, 14976, 10080, 14835, 14105] (median = 14905)
+Execs: 12206494 - 14988220 (avg = 13732609)
+Path ratio: 0.0191 - 0.0222
+Edge ratio: 0.0026 - 0.0031
+Bitmap coverage: 5.89 - 6.22
+------------------------------------------------------------------
+(Result of AFLGo-cxxfilt-2016-4492-original)
+Time-to-error: [86400, 6856, 1899, 2813, 10985, 86400, 1277, 1875] (median = 4834)
+Execs: 8462520 - 9064438 (avg = 8803768)
+Path ratio: 0.0281 - 0.0321
+Edge ratio: 0.0039 - 0.0043
+Bitmap coverage: 5.72 - 6.20
+------------------------------------------------------------------
+(Result of AFLGo-cxxfilt-2016-6131-original)
+Time-to-error: [86400, 86400, 86400, 86400, 86400, 86400, 86400, 17260] (median = 86400)
+Execs: 8047164 - 8849107 (avg = 8477820)
+Path ratio: 0.0286 - 0.0318
+Edge ratio: 0.0042 - 0.0048
+Bitmap coverage: 5.75 - 6.10
+------------------------------------------------------------------
